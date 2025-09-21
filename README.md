@@ -2,6 +2,8 @@
 
 This repository contains a Python-based model for forecasting electricity load in different regions of India.
 
+<img width="997" height="659" alt="image" src="https://github.com/user-attachments/assets/1e3949ab-7553-4179-8fd4-d71b564926f3" />
+
 ## Package Requirements
 
 The following packages are required to run this code:
